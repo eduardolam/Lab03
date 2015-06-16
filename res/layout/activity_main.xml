@@ -1,3 +1,5 @@
+<!-- Autor: Eduardo Luiz Arthur Marques - Matricula: 12296045 -->
+
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -30,77 +32,79 @@
         android:layout_marginTop="30dp"
         android:rowCount="4" >
 
-        <Button
+
+    <Button
             android:id="@+id/button1"
             android:text="@string/bt1"
-            android:layout_gravity="left"
-            android:text="Button" />
-
+            android:layout_gravity="bottom"
+            />
+    
+        
         <Button
             android:id="@+id/button2"
             android:text="@string/bt2"
             android:layout_gravity="bottom"
-            android:text="Button" />
+            />
         
          <Button
             android:id="@+id/button3"
             android:text="@string/bt3"
             android:layout_gravity="left"
-            android:text="Button" />
+            />
 
         <Button
             android:id="@+id/button4"
             android:text="@string/btAd"
             android:layout_gravity="bottom"
-            android:text="Button" />
+          />
         
         <Button
             android:id="@+id/button5"
             android:text="@string/bt4"
             android:layout_gravity="bottom"
-            android:text="Button" />
+          />
        
        <Button
             android:id="@+id/button6"
             android:text="@string/bt5"
             android:layout_gravity="bottom"
-            android:text="Button" />
+          />
         
          <Button
             android:id="@+id/button7"
             android:text="@string/bt6"
             android:layout_gravity="left"
-            android:text="Button" />
+         />
 
         <Button
             android:id="@+id/button8"
             android:text="@string/btSub"
             android:layout_gravity="bottom"
-            android:text="Button" /> 
+          /> 
  
         <Button
             android:id="@+id/button9"
             android:text="@string/bt7"
             android:layout_gravity="bottom"
-            android:text="Button" />
+         />
         
         <Button
             android:id="@+id/button10"
             android:text="@string/bt8"
             android:layout_gravity="bottom"
-            android:text="Button" />
+         />
        
        <Button
             android:id="@+id/button11"
             android:text="@string/bt9"
             android:layout_gravity="bottom"
-            android:text="Button" />
+         />
         
          <Button
             android:id="@+id/button12"
             android:text="@string/btDiv"
             android:layout_gravity="left"
-            android:text="Button" />
+         />
         
          <Button
             android:id="@+id/button15"
@@ -108,7 +112,7 @@
             android:layout_gravity="left"
             android:layout_row="3"
             android:layout_column="1"
-            android:text="Button" />
+         />
 
         <Button
             android:id="@+id/button16"
@@ -116,7 +120,7 @@
             android:layout_gravity="bottom"
             android:layout_row="3"
             android:layout_column="3"
-            android:text="Button" /> 
+         /> 
  
         
         
